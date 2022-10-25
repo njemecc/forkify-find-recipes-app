@@ -130,4 +130,4 @@ const init = function () {
 };
 init();
 
-alert('HACKED');
+console.log('proba jen dva');

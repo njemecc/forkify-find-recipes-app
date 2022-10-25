@@ -129,3 +129,5 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
+
+alert('HACKED');
